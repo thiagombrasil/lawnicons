@@ -1636,6 +1636,7 @@
   <item component="ComponentInfo{br.gov.dataprev.carteiradigital/br.gov.dataprev.carteiradigital.MainActivity}" drawable="carteira_de_trabalho_digital" name="Carteira de Trabalho Digital" />
   <item component="ComponentInfo{br.gov.serpro.cnhe/br.gov.serpro.cnhe.MainActivity}" drawable="carteira_digital_de_transito" name="Carteira Digital de Transito" />
   <item component="ComponentInfo{pt.continente.ContinenteTelemovel/pt.continente.ContinenteTelemovel.MainActivity}" drawable="cartao_continente" name="Cartão Continente" />
+  <item component="ComponentInfo{com.cartaoluiza.app/br.com.itau.cartoes/presentation.splash.SplashActivity}" drawable="luiza" name="Cartão Luiza" />
   <item component="ComponentInfo{com.carxtech.sr/com.unity3d.player.CarXStreetPlayerActivity}" drawable="carx_street" name="CarX Street" />
   <item component="ComponentInfo{com.carxtech.sr/com.unity3d.player.UnityPlayerActivity}" drawable="carx_street" name="CarX Street" />
   <item component="ComponentInfo{com.casadosaber.digital/com.casadosaber.digital.MainActivity}" drawable="casa_do_saber_plus" name="Casa do Saber +" />
